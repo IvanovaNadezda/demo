@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class MyController {
 
+    // добавил комментарий
     @Autowired
     PizzaRepository repository;
 
